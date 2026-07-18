@@ -4,7 +4,7 @@ A full-stack task management app with JWT authentication, built to demonstrate c
 
 **Live demo:** https://task-manager-tau-five-83.vercel.app/login
 
-**Backend API:**https://taskmanager-5zjc.onrender.com/
+**Backend API:** https://taskmanager-5zjc.onrender.com/
 
 > Note: the backend is hosted on Render's free tier, which sleeps after inactivity. The first request after idle can take 30-50 seconds to respond — please allow it a moment to wake up.
 
