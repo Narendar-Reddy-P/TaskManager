@@ -2,7 +2,7 @@
 
 A full-stack task management app with JWT authentication, built to demonstrate core MERN (MongoDB, Express, React, Node.js) skills: secure auth, protected REST APIs, and a clean React frontend consuming them.
 
-**Live demo:** https://task-manager-dhahp47c8-narendar-reddy-ps-projects.vercel.app
+**Live demo:** https://task-manager-tau-five-83.vercel.app/
 
 **Backend API:** https://taskmanager-5zjc.onrender.com/
 
